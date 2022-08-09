@@ -1,0 +1,2 @@
+# DSA-Questions-2022
+These Data Structures &amp; Algorithms Interview Questions are there to get you acquainted with the nature of questions you may encounter during your interview for the subject of Data Structures &amp; Algorithms. As per my experience good interviewers hardly plan to ask any particular question during your interview, normally questions start with some basic concept of the subject and later they continue based on further discussion and what you answer.
